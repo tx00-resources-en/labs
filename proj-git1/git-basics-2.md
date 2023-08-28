@@ -159,8 +159,8 @@ The file should be **Staged**. Let's check the status::
     No commits yet
 
     Changes to be committed:
-      (use "git rm --cached ..." to unstage)
-        new file: index.html
+      (use "git rm --cached ..." to unstage)
+        new file: index.html
 ```
 
 Now the file has been added to the Staging Environment.
@@ -360,8 +360,8 @@ If you are having trouble remembering commands or options for commands, you can 
 
 There are a couple of different ways you can use the `help` command in command line:
 
-- `git _command_ -help` -  See all the available options for the specific command
-- `git help --all` -  See all possible commands
+- `git _command_ -help` -  See all the available options for the specific command
+- `git help --all` -  See all possible commands
 
 Let's go over the different commands.
 

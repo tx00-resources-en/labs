@@ -64,10 +64,11 @@ cd jsx-lab
 **Step 4: Run the App**
 
 1. **Start the App:**
-   Save all your changes and return to the terminal. Make sure you're still in the `jsx-lab` directory. Start the app by running:
-   ```
-   npm start
-   ```
+   Save all your changes and return to the terminal. Make sure you're still in the `jsx-lab` directory. Install the dependencies and start the app by running:
+```sh
+npm install
+npm start
+```
 
 2. **View in Browser:**
    Your app will automatically open in your default web browser. You should see the output of your `SimpleComponent`.
