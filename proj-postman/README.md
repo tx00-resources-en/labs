@@ -12,6 +12,9 @@
 
 ### Postman
 
+> [Download and install Postman](https://www.postman.com/downloads/)
+> Register an account
+
 You can use Postman to test all the endpoints of your API. Here's how you can do it, along with examples of payloads for each request.
 
 1. **GET Request**:
