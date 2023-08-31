@@ -124,10 +124,10 @@ function List() {
 }
 ```
 
-2. **Observe the Warning**:
-Run the app and inspect the browser console. You'll notice a warning about missing keys.
+<!-- 2. **Observe the Warning**:
+Run the app and inspect the browser console. You'll notice a warning about missing keys. -->
 
-3. **Add Keys to List Items**:
+<!-- 3. **Add Keys to List Items**:
 To resolve the warning, add unique keys to each list item:
 
 ```jsx
@@ -142,9 +142,9 @@ function List() {
  </div>
   );
 }
-```
+``` -->
 
-**Conclusion: Learning about Lists and Keys**
+<!-- **Conclusion: Learning about Lists and Keys**
 
-You've gained a foundational understanding of creating and rendering lists in React. Additionally, you've experienced the importance of using keys to optimize performance and prevent warnings. Continue building on this knowledge as you explore more advanced concepts in React. 
+You've gained a foundational understanding of creating and rendering lists in React. Additionally, you've experienced the importance of using keys to optimize performance and prevent warnings. Continue building on this knowledge as you explore more advanced concepts in React.  -->
 
