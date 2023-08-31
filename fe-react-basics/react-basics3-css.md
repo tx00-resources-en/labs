@@ -15,7 +15,7 @@ cd react-props-styling-lab
 ```
 
 
-1. Second method
+2. Second method
 Open your terminal and run:
 
 ```sh
