@@ -98,7 +98,7 @@ const person = { name: "John", age: 25, email: "john@example.com" };
      ```javascript
      function greetPrefix(prefix) {
        return function(name) {
-         console.log(\`\${prefix}, \${name}!\`);
+         console.log(`${prefix}, ${name}!`);
        };
      }
      ```
