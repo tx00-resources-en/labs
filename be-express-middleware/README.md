@@ -1,4 +1,4 @@
-# ab: Creating an Express.js App with Error Handling and Static Assets
+# Lab: Creating an Express.js App with Error Handling and Static Assets
 
 In this lab, you will create a simple Express.js application with two GET endpoints that return text, handle error pages, and serve static assets. 
 

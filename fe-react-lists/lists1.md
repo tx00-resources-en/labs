@@ -100,6 +100,8 @@ Run the development server again if it's not already running:
 npm start
 ```
 
+
+<!--
 2. **Explore the List**:
 Open your browser and navigate to `http://localhost:3000`. You'll see your list of items rendered on the page.
 
@@ -124,10 +126,10 @@ function List() {
 }
 ```
 
-<!-- 2. **Observe the Warning**:
-Run the app and inspect the browser console. You'll notice a warning about missing keys. -->
+**Observe the Warning**:
+Run the app and inspect the browser console. You'll notice a warning about missing keys. 
 
-<!-- 3. **Add Keys to List Items**:
+ 3. **Add Keys to List Items**:
 To resolve the warning, add unique keys to each list item:
 
 ```jsx

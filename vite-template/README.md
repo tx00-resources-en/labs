@@ -17,7 +17,7 @@ in the directory where you want the new project to appear.
 Once the repo is cloned, install the dependencies by issuing the followings commands:
 
 ```sh
-cd <new-project-name>
+cd new_project_name
 npm install
 ```
 to  
